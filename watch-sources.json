@@ -1,6 +1,6 @@
 {
   "meta": {
-    "schema_version": "0.2",
+    "schema_version": "0.3.2",
     "generated_at": "2026-09-13T20:38:00+09:00",
     "counts": {
       "places_total": 445,
@@ -8,7 +8,8 @@
       "visited_want_to_revisit": 210,
       "instagram_following": 1257,
       "instagram_saved_posts": 2402,
-      "instagram_liked_posts": 252
+      "instagram_liked_posts": 252,
+      "learned_web_sources": 3
     },
     "semantics": {
       "旅行プラン": "一度訪問し、また行きたい場所",
@@ -16356,6 +16357,62 @@
         "interest_source"
       ],
       "activity_status": "not_checked"
+    }
+  ],
+  "learned_sources": [
+    {
+      "id": "web_7a8f01767e69",
+      "url": "https://andplants.hatenablog.com/entry/plantandpotvol15",
+      "label": "公式イベント詳細",
+      "category": "event_source",
+      "score": 1,
+      "signals": [
+        {
+          "id": "src_aHR0cHM6Ly9hbmRwbG",
+          "url": "https://andplants.hatenablog.com/entry/plantandpotvol15",
+          "label": "公式イベント詳細",
+          "event_name": "PLANT & POT Vol.15",
+          "signal": "interested",
+          "at": "2026-09-13T14:43:56.335Z"
+        }
+      ],
+      "last_used_at": "2026-09-13T14:43:56.335Z"
+    },
+    {
+      "id": "web_a6d3f73f6d00",
+      "url": "https://nextmeet.app/e/Y3mWuNNCsmBfbG2dnIWn",
+      "label": "NextMeet",
+      "category": "event_source",
+      "score": 1,
+      "signals": [
+        {
+          "id": "src_aHR0cHM6Ly9uZXh0bW",
+          "url": "https://nextmeet.app/e/Y3mWuNNCsmBfbG2dnIWn",
+          "label": "NextMeet",
+          "event_name": "PLANT & POT Vol.15",
+          "signal": "interested",
+          "at": "2026-09-13T14:43:56.335Z"
+        }
+      ],
+      "last_used_at": "2026-09-13T14:43:56.335Z"
+    },
+    {
+      "id": "web_238d1fd1c8af",
+      "url": "https://agave-navi.com/events/plant-and-pot-vol15-2026-09.html",
+      "label": "Agave Navi",
+      "category": "event_source",
+      "score": 1,
+      "signals": [
+        {
+          "id": "src_aHR0cHM6Ly9hZ2F2ZS",
+          "url": "https://agave-navi.com/events/plant-and-pot-vol15-2026-09.html",
+          "label": "Agave Navi",
+          "event_name": "PLANT & POT Vol.15",
+          "signal": "interested",
+          "at": "2026-09-13T14:43:56.335Z"
+        }
+      ],
+      "last_used_at": "2026-09-13T14:43:56.335Z"
     }
   ]
 }

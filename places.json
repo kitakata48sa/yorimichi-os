@@ -1,14 +1,15 @@
 {
   "meta": {
-    "schema_version": "0.2",
+    "schema_version": "0.3.2",
     "generated_at": "2026-09-13T20:38:00+09:00",
     "counts": {
-      "places_total": 445,
-      "want_to_visit": 235,
+      "places_total": 447,
+      "want_to_visit": 236,
       "visited_want_to_revisit": 210,
       "instagram_following": 1257,
       "instagram_saved_posts": 2402,
-      "instagram_liked_posts": 252
+      "instagram_liked_posts": 252,
+      "suppressed": 1
     },
     "semantics": {
       "旅行プラン": "一度訪問し、また行きたい場所",
@@ -8025,6 +8026,31 @@
       "note": "",
       "imported_at": "2026-09-13",
       "operating_status": "not_checked"
+    },
+    {
+      "name": "豊洲市場 見学者通路",
+      "address": "〒135-0061 東京都江東区豊洲6丁目6-1",
+      "category": "稼働中の卸売市場・物流見学・早朝限定体験",
+      "google_place_id": null,
+      "google_maps_place_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E8%A6%8B%E5%AD%A6%E8%80%85%E9%80%9A%E8%B7%AF",
+      "relationship": "suppressed",
+      "last_interaction_at": "2026-09-13T14:29:58.572Z",
+      "recommendation_suppressed": true,
+      "id": "yo_4cfacf351b9f",
+      "source": "yorimichi_os"
+    },
+    {
+      "name": "PLANT & POT Vol.15",
+      "address": "東京都新宿区下落合2-5-15 1F",
+      "category": "植物・作家鉢・期間限定イベント",
+      "google_place_id": null,
+      "google_maps_place_url": "https://www.google.com/maps/search/?api=1&query=東京都新宿区下落合2-5-15",
+      "relationship": "want_to_visit",
+      "last_interaction_at": "2026-09-13T14:43:56.303Z",
+      "visit_status": "not_visited",
+      "id": "yo_ae6cef420c19",
+      "source": "yorimichi_os"
     }
-  ]
+  ],
+  "interactions": []
 }
