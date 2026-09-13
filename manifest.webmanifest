@@ -1,9 +1,1 @@
-{
-  "name": "よりみちOS",
-  "short_name": "よりみちOS",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f3f0e8",
-  "theme_color": "#17201b",
-  "lang": "ja"
-}
+{"name":"よりみちOS","short_name":"よりみちOS","start_url":"./","display":"standalone","background_color":"#f3f0e8","theme_color":"#17201b","lang":"ja"}
