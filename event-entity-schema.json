@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.5.1-dev",
+  "event_entities": {
+    "venue": {
+      "name": "",
+      "google_maps_url": "",
+      "place_id": null
+    },
+    "organizer": {
+      "name": "",
+      "official_url": "",
+      "instagram_url": ""
+    },
+    "exhibitors": [],
+    "themes": []
+  },
+  "rules": [
+    "未確認情報を推測しない",
+    "イベント終了後も会場・主催者・出展者・テーマを個別に保持",
+    "イベントへの反応を関連情報源へ条件付きで伝播"
+  ]
+}
