@@ -1,0 +1,373 @@
+{
+  "changed_count": 46,
+  "accounts": [
+    {
+      "handle": "10_tokyo",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "東京・江東区佐賀のギャラリー兼ショップten。日本の作家作品と香り等を扱い企画展を開催"
+    },
+    {
+      "handle": "202tokyo",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "東京を移動して出店する古道具店。展示とオリジナルプロダクトにも展開"
+    },
+    {
+      "handle": "_nameless_ls",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "大分市のライフスタイルショップNAMELESS。雑貨、家具、照明、植物、着生植物を扱いワークショップを開催"
+    },
+    {
+      "handle": "aa_sekizuka",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "京都・岩倉の履物関づか併設スペース岩倉AA。履物、衣服、工芸、展示を横断するショップ兼ギャラリー"
+    },
+    {
+      "handle": "bluelug",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "東京の自転車店、修理、製品、カフェ、コミュニティ・イベント"
+    },
+    {
+      "handle": "bluelug_kamiuma",
+      "old_geo": "unknown_or_global",
+      "old_tier": "B",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "上馬の自転車店、修理、製品、スタッフ発信"
+    },
+    {
+      "handle": "bluelug_yoyogipark",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "boltshardwarestore",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "circles_jp",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名古屋・東京の自転車店。製品、ライド、カスタム、生活文化を発信"
+    },
+    {
+      "handle": "crumbworks.co",
+      "old_geo": "unknown_or_global",
+      "old_tier": "B",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "中野の自転車店。グラベル、コミューター、フレーム・パーツを扱う"
+    },
+    {
+      "handle": "cyclesgrandbois",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "d_department",
+      "old_geo": "unknown_or_global",
+      "old_tier": "B",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "ロングライフデザイン、地域文化、店舗・食堂・展示・イベント"
+    },
+    {
+      "handle": "docketstore",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "大阪府箕面市の文具・収納用品店DOCKET STORE。道具の理由を読み解き、ラベリングやオリジナル商品、使い方を提案。"
+    },
+    {
+      "handle": "doinel_shop",
+      "old_geo": "unknown_or_global",
+      "old_tier": "B",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "外苑前の器、ガラス、木工、香り、生活用品のセレクトショップ"
+    },
+    {
+      "handle": "ebsbikes_kyoto",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "京都の自転車ブランド・店舗候補"
+    },
+    {
+      "handle": "eirinmaru",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "京都のスポーツ自転車店。グラベル、ツーリング、バイクパッキング、イベント発信"
+    },
+    {
+      "handle": "extrapreview",
+      "old_geo": "unknown_or_global",
+      "old_tier": "B",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "約100ブランドが参加するデザイン・生活雑貨のBtoB合同展示会EXTRA PREVIEW"
+    },
+    {
+      "handle": "framajpn",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "家具、照明、香り、ケアを扱うFRAMA東京・日本公式"
+    },
+    {
+      "handle": "goodware_tokyo",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "graf.studio",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "大阪・中之島の家具、ショップ、カフェ、ギャラリー複合拠点"
+    },
+    {
+      "handle": "grumpy_bike",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "holeinthewalltokyo",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "hystshop",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "清澄白河・森下の週一営業古物店。解体現場由来の家具・雑貨"
+    },
+    {
+      "handle": "itou.uoti",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "京都・一乗寺の古物店itou。伊藤槙吾が用途不明の造形物や古物をディスプレイで再解釈し、オリジナルプロダクトも展開"
+    },
+    {
+      "handle": "keiokairai",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "京都・一乗寺の複合店。古着、アートブック、音楽、ギャラリー、飲食を組み合わせる"
+    },
+    {
+      "handle": "knapfordpostermarket",
+      "old_geo": "unknown_or_global",
+      "old_tier": "B",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "代々木のデザイン・美術・建築系ポスター専門店"
+    },
+    {
+      "handle": "mastore.official",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "method_inc_tokyo",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "mono100tokyo",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "nakagawamasa7",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "日本の工芸を現代の暮らしに接続する店舗・ブランド"
+    },
+    {
+      "handle": "ofs_tokyo",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "okibota_2021",
+      "old_geo": "unknown_or_global",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "洋ラン、食虫植物、多肉植物、アロイド、ビカクシダなどが集まる大型植物即売会OKIBOTAの公式アカウント。"
+    },
+    {
+      "handle": "ozakiflowerpark",
+      "old_geo": "unknown_or_global",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "練馬区の大型ガーデンセンター。植物、園芸資材、イベントを展開"
+    },
+    {
+      "handle": "place_by_method",
+      "old_geo": "unknown_or_global",
+      "old_tier": "B",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "企画展、ポップアップ、展示受注会を行う渋谷の可変的な展示空間"
+    },
+    {
+      "handle": "pop.toyama",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "段ボール工場を再利用した高岡市の倉庫・ショップ・ギャラリーP/OP TOYAMA。伝統家具の脱構築、自社作品、古物、作家作品を扱う。"
+    },
+    {
+      "handle": "shop_monoya",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "京都の古道具店・デザインスタジオ。ポップアップ情報源"
+    },
+    {
+      "handle": "somewheretokyo",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "takeopaper",
+      "old_geo": "unknown_or_global",
+      "old_tier": "B",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "紙・素材・見本帖・ペーパーショウ・展示情報"
+    },
+    {
+      "handle": "tokyobike_jp",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "tokyopenthouse",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "tokyoprototype.jp",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "upstairs_ginza",
+      "old_geo": "domestic",
+      "old_tier": "A",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "銀座の植物・家具・アウトドアリビング用品店"
+    },
+    {
+      "handle": "velo_life_unpeu",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名称に基づく一次分類"
+    },
+    {
+      "handle": "velostyleticket",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "wdtokyousk",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "westvillagetokyo",
+      "old_geo": "unknown_or_global",
+      "old_tier": "C",
+      "new_geo": "domestic",
+      "new_tier": "A",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    }
+  ]
+}

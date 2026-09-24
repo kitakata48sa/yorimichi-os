@@ -1,0 +1,1241 @@
+{
+  "total": 206,
+  "accounts": [
+    {
+      "handle": "2121designsight",
+      "current_tier": "A",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "3ddesignwork",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "3dstudio360",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "ac_al_studio",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "adorno.design",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "aectual",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "alcarol_design",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "alessandrostabile.studio",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "alt.bikes",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "altroom_3d",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "andgo_design",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "antique_soil",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "aquashopwasabi_kyoto_japan",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "arch_thoughts",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "atelier_matic_maki",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "atta_ceramics",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "azumamakoto",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "bababa_jpn",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "bettsys_botanicals",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "biggamedesign",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "スイスのプロダクト・家具・展示デザインスタジオ"
+    },
+    {
+      "handle": "bluecycle.official",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "boceto.3d",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "bold_designers",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "bota_genya",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "botajima",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "botanical.botanical",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "bromptonfoldingbike",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "brothersmake",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "英国で廃プラスチックを粉砕・射出・押出しし製品化する制作・教育チーム"
+    },
+    {
+      "handle": "budde.studio",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "cademy.xyz",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "cancridesign",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "casaceramicatiles",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "ceramicastudio.lab",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。個別照合は二巡目対象"
+    },
+    {
+      "handle": "christopherpaynephoto",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "comolebi_plants",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "contureconcretelab",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "cornichondesign",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "counterprintbooks",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "cremeatelierse",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "daisukemotogi",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "dari_indesign",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "de_architects_",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。個別照合は二巡目対象"
+    },
+    {
+      "handle": "design_burger",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "design_exp",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "designerd.official",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "designertaleart",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "designwanted",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "dezeen",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "dmitrykozinenko",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "don_ricardo_ceramics",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "dutchly_designs",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "eburet_com",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "ecal_ch",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "edgardesignstudio",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "eightdesign",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "elledecorjapan",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "elliottceramics",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "emecochairs",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。個別照合は二巡目対象"
+    },
+    {
+      "handle": "espritdesign",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "fairweatherbikes",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "familybike.shop",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "fazdes",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "インド出身の工業デザイナー兼ビジュアルアーティストFaz。ビジュアル、イラスト、工業デザインを横断"
+    },
+    {
+      "handle": "federicafragapane",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "fern_bicycles",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "ferres_ceramica",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "floriangadsby",
+      "current_tier": "A",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "ロンドン拠点で器と釉薬を研究制作する陶芸家"
+    },
+    {
+      "handle": "fumie.design",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "fushigiproducts",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "gcodetools",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "gen__suzuki",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "GEN SUZUKI STUDIOのデザイン活動"
+    },
+    {
+      "handle": "getplasticity",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "gex_aquarium",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "ggg.glassblowingstudio",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "ginger.additive",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "goncalo.campos",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "greenaquarium_maruyama",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "groote_plantage",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "gtsantilas",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "チューリヒを拠点とする建築家Gregory Tsantilas。建築探索と共同プロジェクトを発信"
+    },
+    {
+      "handle": "hammerlyceramics",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "hans_leathercraft.tw",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。個別照合は二巡目対象"
+    },
+    {
+      "handle": "haydesign",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "hayogebauer",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "hermanmiller",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "huzidesign",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "ichendorfmilano",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "iconiclighting",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "igarashi_design_studio",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "ingasempe",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "instamarriott2.0",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類"
+    },
+    {
+      "handle": "interior_with_engineers",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "ious.studio",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "itsaminmalekpour",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "japan.power.plant",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "japandesigncommittee",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "jaspermorrisonshop",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類"
+    },
+    {
+      "handle": "johntree_",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "joinemaarten",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "jun_plants",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "k_design_agency_",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "kame_plants",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "keke_material",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "keke_rug",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "keyshot3d",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "kiokutekisansaku",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "koichi_futatsumata",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "kokuyo_no_kukan.official",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "コクヨの空間設計チーム。事例、設計者、空間づくりの知見を発信"
+    },
+    {
+      "handle": "kuo__duo",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "lakusdesign",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "lamaquina_3d",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "lautaro.id",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "layer_design",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "libaran_plants",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "life_design_crafts",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "londondesignfair",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "lukayasukawa",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "安川流加。空間と家具の関係を探る家具・プロダクトデザイナー"
+    },
+    {
+      "handle": "lumrarq",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "mandai_architects",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。個別照合は二巡目対象"
+    },
+    {
+      "handle": "matti.metal",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "mau_interior",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "mayaprodesign",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "milan.design.week",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "minimal_interior_space",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "mirudake_design_",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "miyoshirug",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "mlkfurniture",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "morramadesign",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "ロンドンの工業デザイン・イノベーション・サステナビリティ"
+    },
+    {
+      "handle": "moss.uk",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "mu_woodendesign",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "muji_global",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "mwawoodworks",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "necomoss",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "nintendo_jp",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "nippondesigncenter",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "nodesigne",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "nomad_design_temma",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "noydesign_minami",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "ohmi_furniture",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。個別照合は二巡目対象"
+    },
+    {
+      "handle": "parallelplastics",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "paulcocksedge",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "ロンドン拠点のアート・デザインスタジオ"
+    },
+    {
+      "handle": "pcastillodesign",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "pearsonlloyd",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "製品、空間、サービスを扱うロンドンのデザインスタジオ"
+    },
+    {
+      "handle": "pidat_design",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "planet_rock_plants",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "plantinsight",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。個別照合は二巡目対象"
+    },
+    {
+      "handle": "plusminuszero_official",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "post.industrial.crafts",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "posterlad",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "products.design",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "renoveru",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "rousseau_plant_care",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。個別照合は二巡目対象"
+    },
+    {
+      "handle": "royaldanishacademy_mafurniture",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "ryokuensha",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "saboten_taro",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "sabotensi",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "samryan_designs",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "samy_rio",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "sekisai.design",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "shapr3d_official",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "shinya_yoshida_design",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "simonbusse",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "sing_factory",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "smile.materials",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "soil__flower",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "soloaquaria",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "sonydesign_official",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "sputnikcycle",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "sthlmfurnfair",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "studio.rap",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "studio_biskt",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "studioeaea",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "studiothomasvailly",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "sydneyplantguy",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "taf_studio",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "tanuki_plants",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "tarasukinbonkers",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "流木、漁網、みかん網、ロープ、汎用材などを再解釈しバッグや生活道具を制作するデザインユニット。"
+    },
+    {
+      "handle": "tecture_official",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "teun.zwets",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "オランダの家具・オブジェ制作スタジオ"
+    },
+    {
+      "handle": "the.edit.magazine",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。個別照合は二巡目対象"
+    },
+    {
+      "handle": "the.leafy.brand",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "the_creative_back_side",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "the_succulentist_official",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "thecyclelist.co",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "thedesignstoryy",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類"
+    },
+    {
+      "handle": "thepolyforge",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類"
+    },
+    {
+      "handle": "tilde.printed",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "timteven_studio",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類"
+    },
+    {
+      "handle": "toaster_design",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "tobimatsu_porcelain.lighting",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。個別照合は二巡目対象"
+    },
+    {
+      "handle": "todobarro",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "tokyo.real.house",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "tokyo__r",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "tokyobotanicalmeeting",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "tokyocreativesalon",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "tomas_kral_product_design",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "tooudesign",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類"
+    },
+    {
+      "handle": "totti_3dp",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "troelsflensted",
+      "current_tier": "B",
+      "review_reason": "海外デザイナーの著名性・固有性を未評価",
+      "scope": "素材特性を探り鋳造作品や家具を制作するデンマークのスタジオ"
+    },
+    {
+      "handle": "ueda_yacht",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類"
+    },
+    {
+      "handle": "umadesignfarm",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類"
+    },
+    {
+      "handle": "upcycler",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    },
+    {
+      "handle": "urbanplatyhunter",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。個別照合は二巡目対象"
+    },
+    {
+      "handle": "vandakaplants_osaka",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "velo_orange",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類"
+    },
+    {
+      "handle": "vitra",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "活動分野の暫定分類。個別の公式確認は二巡目対象"
+    },
+    {
+      "handle": "workshop__tm",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "既存分類を維持。二巡目対象"
+    },
+    {
+      "handle": "yuhe_interior",
+      "current_tier": "C",
+      "review_reason": "暫定分類の再確認",
+      "scope": "名称に基づく一次分類。二巡目対象"
+    }
+  ]
+}
